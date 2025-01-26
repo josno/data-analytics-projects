@@ -10,7 +10,7 @@ Hi there, and welcome! This repository is a collection of projects from my journ
 
 ## About Me
 
-I have a diverse background spanning full-stack web development, education, and media strategy. Through all of my experiences, data has been a consistent thread. From designing and building databases and APIs for efficient data handling in development, to using data for storytelling and simplifying complex ideas in education, to analyzing KPIs and identifying patterns for optimization in media strategy, data has always been central to my work. This program has expanded my data analysis foundations such as introducing me to machine learning.
+Hi, my name is Joanne Senoren. I have a diverse background spanning full-stack web development, education, and media strategy. Through all of my experiences, data has been a consistent thread. From designing and building databases and APIs for efficient data handling in development, to using data for storytelling and simplifying complex ideas in education, to analyzing KPIs and identifying patterns for optimization in media strategy, data has always been central to my work. This program has expanded my data analysis foundations such as introducing me to machine learning.
 
 ## Project Summaries
 
@@ -27,8 +27,10 @@ All data analysis projects demonstrate data needs analysis, data preprocessing (
 
 ## Academic Integrity
 
-You are able to access this private repository through a special link from my resume 😁
+You are able to access this private repository through a GitFront link from my resume or through a zip file.
 
 As a current WGU student, I am bound by the university's academic integrity policy, which prohibits sharing course projects in public repositories with other current students at the school. These projects are not tutorials; they're independent final class assignments designed to demonstrate application of course concepts. Please do not share them outside of your professional consideration.
 
 I appreciate your understanding!
+
+Feel free to reach out at jnsenoren@gmail.com
