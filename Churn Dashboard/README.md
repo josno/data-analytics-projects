@@ -10,8 +10,8 @@ This folder contains a concise single-slide executive summary that provides an o
 
 ### Options -
 
-1.  Download a copy of the dashboard in this folder
-2.  Explore it in realtime here (you will need the password: xx)
+1.  Explore it [here](https://public.tableau.com/app/profile/joanne.senoren/viz/Churn_Analysis_Dashboard_17379556602450/ChurnDashboard)
+2.  Clone this Tableau file
 3.  Review the screenshots [below](#dashboard-screenshots)
 
 ## Tools Used
