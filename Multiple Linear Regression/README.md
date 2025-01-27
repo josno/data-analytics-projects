@@ -1,6 +1,6 @@
 # README
 
-[View Notebook](https://josno.github.io/multi-linear-notebook/)
+## [View Notebook](https://josno.github.io/multi-linear-notebook/)
 
 ## Project Summary
 
