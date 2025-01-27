@@ -16,7 +16,7 @@ Hi, my name is Joanne Senoren. I have a diverse background spanning full-stack w
 
 All data analysis projects demonstrate data needs analysis, data preprocessing (i.e. cleaning and transformation), exploratory summary statistics (when necessary), and actionable recommendations.
 
-| Folder Name                                                                                                                         | Overview                                                                                                                |
+| Project Name                                                                                                                        | Overview                                                                                                                |
 | ----------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
 | [Chi-Square Hypothesis Testing](https://josno.github.io/chi-square-notebook/)                                                       | Implemented a non-parametric test, Chi-Square, within the framework of hypothesis testing and exploratory data analysis |
 | [Churn Dashboard](https://public.tableau.com/app/profile/joanne.senoren/viz/Churn_Analysis_Dashboard_17379556602450/ChurnDashboard) | Constructed an interactive dashboard to provide monthly churn analysis and KPIs to an executive-level audience          |
