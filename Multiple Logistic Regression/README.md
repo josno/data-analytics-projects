@@ -1,5 +1,7 @@
 # README
 
+## [View Notebook](https://josno.github.io/multi-logistic-notebook/)
+
 ## Project Summary
 
 I evaluated the capacity of multiple logistic regression models to predict churn based on customer attributes.

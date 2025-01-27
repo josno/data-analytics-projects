@@ -1,5 +1,7 @@
 # README
 
+## [View Notebook](https://josno.github.io/chi-square-notebook/)
+
 ## Project Summary
 
 I employed the Chi-Square test on categorical variables to evaluate statistically significant correlations through metrics such as alpha level, p-value, and correlation coefficient. Prior to the analysis, I cleaned and prepared the data and generated descriptive statistics.

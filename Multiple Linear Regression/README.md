@@ -1,5 +1,7 @@
 # README
 
+[View Notebook](https://josno.github.io/multi-linear-notebook/)
+
 ## Project Summary
 
 I evaluated the capacity of multiple linear regression models to predict the length of hospital stay based on patient attributes.

@@ -16,20 +16,20 @@ Hi, my name is Joanne Senoren. I have a diverse background spanning full-stack w
 
 All data analysis projects demonstrate data needs analysis, data preprocessing (i.e. cleaning and transformation), exploratory summary statistics (when necessary), and actionable recommendations.
 
-| Folder Name                       | Overview                                                                                                                |
-| --------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
-| Chi-Square Hypothesis Testing EDA | Implemented a non-parametric test, Chi-Square, within the framework of hypothesis testing and exploratory data analysis |
-| Churn Dashboard                   | Constructed an interactive dashboard to provide monthly churn analysis and KPIs to an executive-level audience          |
-| Linear Regression                 | Evaluated linear regression models to predict length of hospital stay based on selected patient attributes              |
-| Logistic Regression               | Evaluated logistic regression models to predict customer telecommunications attributes against customer churn           |
-| Relational Database               | Designed and built a relational database based on company needs                                                         |
-| Non-Relational Database           | Designed and built a non-relational database based on company needs                                                     |
+| Folder Name                                                                                                                         | Overview                                                                                                                |
+| ----------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| [Chi-Square Hypothesis Testing](https://josno.github.io/chi-square-notebook/)                                                       | Implemented a non-parametric test, Chi-Square, within the framework of hypothesis testing and exploratory data analysis |
+| [Churn Dashboard](https://public.tableau.com/app/profile/joanne.senoren/viz/Churn_Analysis_Dashboard_17379556602450/ChurnDashboard) | Constructed an interactive dashboard to provide monthly churn analysis and KPIs to an executive-level audience          |
+| [Linear Regression](https://josno.github.io/multi-linear-notebook/)                                                                 | Evaluated linear regression models to predict length of hospital stay based on selected patient attributes              |
+| [Logistic Regression](https://josno.github.io/multi-logistic-notebook/)                                                             | Evaluated logistic regression models to predict customer telecommunications attributes against customer churn           |
+| [Relational Database](https://gitfront.io/r/josno/23agPrQxaiJX/data-analytics-projects/tree/Relational%20Database/)                 | Designed and built a relational database based on company needs                                                         |
+| [Non-Relational Database](https://gitfront.io/r/josno/23agPrQxaiJX/data-analytics-projects/tree/Non-Relational%20Database)          | Designed and built a non-relational database based on company needs                                                     |
 
 ## Academic Integrity
 
-You are able to access this private repository through a GitFront link from my resume or through a zip file.
+You are able to access this private repository through a GitFront link from my resume.
 
-As a current WGU student, I am bound by the university's academic integrity policy, which prohibits sharing course projects in public repositories with other current students at the school. These projects are not tutorials; they're independent final class assignments designed to demonstrate application of course concepts. Please do not share them outside of your professional consideration.
+As a current WGU student, I am bound by the university's academic integrity policy, which prohibits sharing course projects in public repositories with other current students at the school. These projects are not tutorials; they're independent final class assignments designed to demonstrate application of course concepts. Please do not share them outside of your organization.
 
 I appreciate your understanding!
 
