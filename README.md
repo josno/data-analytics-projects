@@ -10,12 +10,12 @@ Hi, my name is Joanne Senoren. I have a diverse background spanning full-stack w
 
 These data projects demonstrate the following:
  - Data needs analysis
- - Data preprocessing (i.e. cleaning and transformation)
+ - Data preprocessing (e.g., cleaning and transformation)
  - Cloud-based ELT design and engineering
  - Model development
  - Exploratory data
  - Statistical summaries
- - Model evalations
+ - Model evaluations
  - Actionable recommendations                                                
 
 ## About These Projects
