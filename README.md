@@ -25,12 +25,8 @@ All data analysis projects demonstrate data needs analysis, data preprocessing (
 | [Relational Database](https://gitfront.io/r/josno/23agPrQxaiJX/data-analytics-projects/tree/Relational%20Database/)                 | Designed and built a relational database based on company needs                                                         |
 | [Non-Relational Database](https://gitfront.io/r/josno/23agPrQxaiJX/data-analytics-projects/tree/Non-Relational%20Database)          | Designed and built a non-relational database based on company needs                                                     |
 
-## Academic Integrity
+## About These Projects
 
-You are able to access this private repository through a GitFront link from my resume.
-
-As a current WGU student, I am bound by the university's academic integrity policy, which prohibits sharing course projects in public repositories with other current students at the school. These projects are not tutorials; they're independent final class assignments designed to demonstrate application of course concepts. Please do not share them outside of your organization.
-
-I appreciate your understanding!
+These projects are not tutorials; they're independent final class assignments designed to demonstrate application of course concepts.
 
 Feel free to reach out at jnsenoren@gmail.com
