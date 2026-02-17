@@ -16,7 +16,7 @@ These data projects demonstrate the following:
  - Exploratory data
  - Statistical summaries
  - Model evalations
- - Actionable recommendations                                                 |
+ - Actionable recommendations                                                
 
 ## About These Projects
 
