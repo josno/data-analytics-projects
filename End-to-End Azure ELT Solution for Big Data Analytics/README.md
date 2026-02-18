@@ -32,9 +32,15 @@ The solution follows a Medallion Lakehouse Architecture and a structured impleme
 
 - Data is logically organized into three tiers: Bronze (raw landing), Silver (trusted/cleaned), and Gold (business-ready/curated) within Azure Data Lake Storage.
 
+![alt text](screenshots/medallion_folders.png)
+
 ### ELT Pipeline:
+
+![alt text](screenshots/stedi_azure_architecture.png)
 
 - Ingestion: Raw data from mobile apps and step trainers is ingested via IoT Hub and Event Hubs.
 - Processing: Azure Databricks utilizes Spark jobs to perform distributed transformations, such as joining customer records with accelerometer data and filtering based on consent.
 - Storage: Data is stored in Delta format, providing ACID compliance and the performance of a data warehouse within a flexible lake environment.
 - Data Modeling: The curated layer utilizes a Star Schema to simplify relationships for non-technical users and BI tools.
+
+![alt text](screenshots/conceptual_star_schema.png)
