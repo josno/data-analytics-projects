@@ -44,28 +44,42 @@ Below are screenshots of some of the code implemented in the full stack process.
 ### Extraction
  - Create a fetch request and save data based on standardized US holidays from an API to fill in missing holidays from dataset
  ![alt text](screenshots/holiday_api_request.png)
+
 ### Cleaning
  - Calculate null row count for Meta and Google datasets
+ 
  ![alt text](screenshots/calculate_nulls.png)
+
 ### Transforms
  - Make a Click-Through rate column by calculating existing clicks and impressions
+ 
  ![alt text](screenshots/generate_ctr_column.png)
+
 ### Wrangling
  - Implement adstock to account for delayed advertising response and generate a new feature with average decay rates for the regression models
+ 
  ![alt text](screenshots/add_adstock.png)
 
 ### Explorative Visualizations
  - Logarithmic transforms and visualization code of spend by channel
+ 
  ![alt text](screenshots/log_transform1.png)
+ 
  ![alt text](screenshots/log_transform2.png)
+ 
  ![alt text](screenshots/logged_spend_viz.png)
 
 ### Linear Regression Models
  - Splitting data into training and testing sets
+ 
  ![alt text](screenshots/train_test_split.png)
+
  - Variance Inflation Factor (VIF) checks for multicollinearity
+ 
  ![alt text](screenshots/VIF_check.png)
+
  - Reiterative backward stepwise elimination process to select statistically relevant features within a regression model
+ 
  ![alt text](screenshots/backward_stepwise_example.png)
 
 ## Research Question and Hypothesis
