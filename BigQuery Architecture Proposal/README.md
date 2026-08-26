@@ -68,7 +68,7 @@ The solution leverages the Google Cloud Platform (GCP) ecosystem, centered on Bi
 
 - Star Schema Implementation: I refactored the database code to create and populate three distinct tables: customer, transaction, and shopping_cart.
 
-  ![alt text](screenshots/createtables.png)
+  ![alt text](screenshots/create_tables.png)
 
 - Handling Complex Data: I used the UNNEST operator in SQL to unpack nested shopping cart arrays from the JSON records into individual rows for the dimension table.
 
