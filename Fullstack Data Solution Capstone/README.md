@@ -39,7 +39,7 @@ I created a solution that utilizes a Medallion Architecture within the Azure Dat
 
 I performed tasks from extraction to cleaning to transformation to wrangling to exploration to supervised learning (two types of linear regressions) in order to make sense of the media data and provide statistically sound budget recommendations.
 
-Below are screenshots of some of the code implemented included in the full stack process.
+Below are screenshots of some of the code implemented in the full stack process.
 
 ### Extraction
  - Create a fetch request and save data based on standardized US holidays from an API to fill in missing holidays from dataset
